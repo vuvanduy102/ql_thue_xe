@@ -1,0 +1,6 @@
+C:\Users\vuvan\source\repos\quanlythuexe\quanlythuexe\bin\Debug\quanlythuexe.exe.config
+C:\Users\vuvan\source\repos\quanlythuexe\quanlythuexe\bin\Debug\quanlythuexe.exe
+C:\Users\vuvan\source\repos\quanlythuexe\quanlythuexe\bin\Debug\quanlythuexe.pdb
+C:\Users\vuvan\source\repos\quanlythuexe\quanlythuexe\obj\Debug\quanlythuexe.csprojAssemblyReference.cache
+C:\Users\vuvan\source\repos\quanlythuexe\quanlythuexe\obj\Debug\quanlythuexe.exe
+C:\Users\vuvan\source\repos\quanlythuexe\quanlythuexe\obj\Debug\quanlythuexe.pdb
